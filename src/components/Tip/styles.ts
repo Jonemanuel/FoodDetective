@@ -7,13 +7,21 @@ export const styles = StyleSheet.create({
     gap: 12,
     alignItems: 'center',
     height: 56,
-    borderRadius: 7,
+    borderRadius: 8, // Cantos levemente arredondados
     justifyContent: 'center',
-    backgroundColor: "#2E9D4C",
+    backgroundColor: "#003366", // Cor do botão
+    shadowColor: "#000", // Sombra para dar profundidade
+    shadowOffset: {
+      width: 0,
+      height: 2,
+    },
+    shadowOpacity: 0.1, // Opacidade da sombra
+    shadowRadius: 4, // Raio da sombra
+    elevation: 2, // Sombra em Android
   },
   message: {
     fontFamily: "Poppins_400Regular",
     fontSize: 16,
-    color: "#FFFFFF",
+    color: "#F2F2F2", // Cor do texto em azul escuro
   },
 });

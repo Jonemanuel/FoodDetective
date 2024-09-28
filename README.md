@@ -1,6 +1,4 @@
-Aqui está a versão do **FoodDetective** com a descrição bilíngue (português e inglês) que você pediu:
 
----
 
 # FoodDetective
 
@@ -105,6 +103,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests for 
 Para mais informações, entre em contato com Jonatas Emanuel em [jonatasemanuel276@gmail.com](mailto:jonatasemanuel276@gmail.com).  
 For more information, contact Jonatas Emanuel at [jonatasemanuel276@gmail.com](mailto:jonatasemanuel276@gmail.com).
 
----
 
-Agora a descrição do **FoodDetective** está completamente em português e inglês! Se precisar de mais algum ajuste ou outra versão, é só avisar.
